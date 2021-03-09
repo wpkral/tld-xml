@@ -1,0 +1,3907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tld>
+    <abogado>
+        <service>whois.nic.abogado</service>
+        <message>This domain name has not been registered</message>
+    </abogado>
+    <ac>
+        <service>whois.nic.ac</service>
+        <message>Available</message>
+    </ac>
+    <ac.ac>
+        <service>whois.nic.ac</service>
+        <message>Available</message>
+    </ac.ac>
+    <ac.at>
+        <service>whois.nic.at</service>
+        <message>nothing found</message>
+    </ac.at>
+    <ac.be>
+        <service>whois.dns.be</service>
+        <message>No such domain</message>
+    </ac.be>
+    <ac.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </ac.cn>
+    <ac.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </ac.il>
+    <ac.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </ac.in>
+    <ac.jp>
+        <service>whois.nic.ad.jp</service>
+        <message>No match!!</message>
+    </ac.jp>
+    <ac.ke>
+        <service>whois.kenic.or.ke</service>
+        <message>Not Registered</message>
+    </ac.ke>
+    <ac.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </ac.kr>
+    <ac.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </ac.nz>
+    <ac.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </ac.th>
+    <ac.uk>
+        <service>whois.ja.net</service>
+        <message>Sorry - no</message>
+    </ac.uk>
+    <ac.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </ac.za>
+    <academy>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </academy>
+    <accountants>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </accountants>
+    <actor>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </actor>
+    <ad>
+        <service>whois.ripe.net</service>
+        <message>no entries found</message>
+    </ad>
+    <adm.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </adm.br>
+    <adult>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </adult>
+    <adv.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </adv.br>
+    <ae>
+        <service>whois-check.aeda.net.ae</service>
+        <message>---Available</message>
+    </ae>
+    <aero>
+        <service>whois.aero</service>
+        <message>NOT FOUND</message>
+    </aero>
+    <af>
+        <service>whois.netnames.net</service>
+        <message>No Match</message>
+    </af>
+    <ag>
+        <service>whois.nic.ag</service>
+        <message>NOT FOUND</message>
+    </ag>
+    <agency>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </agency>
+    <agro.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </agro.pl>
+    <ah.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </ah.cn>
+    <aid.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </aid.pl>
+    <airforce>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </airforce>
+    <allfinanz>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </allfinanz>
+    <alsace>
+        <service>whois-alsace.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </alsace>
+    <alt.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </alt.za>
+    <am>
+        <service>whois.nic.am</service>
+        <message>No match</message>
+    </am>
+    <am.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </am.br>
+    <android>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </android>
+    <apartments>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </apartments>
+    <aquarelle>
+        <service>whois-aquarelle.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </aquarelle>
+    <archi>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </archi>
+    <army>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </army>
+    <arq.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </arq.br>
+    <art.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </art.br>
+    <arts.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </arts.ro>
+    <as>
+        <service>whois.nic.as</service>
+        <message>Domain Not Found</message>
+    </as>
+    <asia>
+        <service>whois.nic.asia</service>
+        <message>NOT FOUND</message>
+    </asia>
+    <asn.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </asn.au>
+    <asso.fr>
+        <service>whois.nic.fr</service>
+        <message>No entries found</message>
+    </asso.fr>
+    <asso.mc>
+        <service>whois.ripe.net</service>
+        <message>no entries found</message>
+    </asso.mc>
+    <associates>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </associates>
+    <at>
+        <service>whois.nic.at</service>
+        <message>nothing found</message>
+    </at>
+    <atm.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </atm.pl>
+    <attorney>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </attorney>
+    <au>
+        <service>whois.audns.net.au</service>
+        <message>No Data Found</message>
+    </au>
+    <auction>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </auction>
+    <audio>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </audio>
+    <auto.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </auto.pl>
+    <aw>
+        <service>whois.nic.aw</service>
+        <message>is free</message>
+    </aw>
+    <ax>
+        <service>whois.ax</service>
+        <message>No records matching</message>
+    </ax>
+    <band>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </band>
+    <bank>
+        <service>whois.nic.bank</service>
+        <message>No match for</message>
+    </bank>
+    <bar>
+        <service>whois.nic.bar</service>
+        <message>DOMAIN NOT FOUND</message>
+    </bar>
+    <barclaycard>
+        <service>whois.nic.barclaycard</service>
+        <message>No Data Found</message>
+    </barclaycard>
+    <barclays>
+        <service>whois.nic.barclays</service>
+        <message>No Data Found</message>
+    </barclays>
+    <bargains>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </bargains>
+    <bayern>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </bayern>
+    <bbs.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </bbs.tr>
+    <be>
+        <service>whois.dns.be</service>
+        <message>Status: AVAILABLE</message>
+    </be>
+    <beer>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </beer>
+    <berlin>
+        <service>whois.nic.berlin</service>
+        <message>% No match</message>
+    </berlin>
+    <best>
+        <service>whois.nic.best</service>
+        <message>Not found:</message>
+    </best>
+    <bg>
+        <service>whois.register.bg</service>
+        <message>does not exist in database</message>
+    </bg>
+    <bi>
+        <service>whois1.nic.bi</service>
+        <message>Domain Status: No Object Found</message>
+    </bi>
+    <bike>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </bike>
+    <bingo>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </bingo>
+    <bio>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </bio>
+    <bio.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </bio.br>
+    <biz>
+        <service>whois.nic.biz</service>
+        <message>Not found</message>
+    </biz>
+    <biz.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </biz.pl>
+    <bj>
+        <service>whois.nic.bj</service>
+        <message>No records matching</message>
+    </bj>
+    <bj.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </bj.cn>
+    <black>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </black>
+    <blackfriday>
+        <service>whois.uniregistry.net</service>
+        <message>is available</message>
+    </blackfriday>
+    <blue>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </blue>
+    <bmw>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </bmw>
+    <bnpparibas>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </bnpparibas>
+    <boo>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </boo>
+    <boutique>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </boutique>
+    <br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </br>
+    <br.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </br.com>
+    <brussels>
+        <service>whois.nic.brussels</service>
+        <message>is still available</message>
+    </brussels>
+    <budapest>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </budapest>
+    <build>
+        <service>whois.nic.build </service>
+        <message>No Data Found</message>
+    </build>
+    <builders>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </builders>
+    <business>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </business>
+    <bw>
+        <service>whois.nic.net.bw</service>
+        <message>Domain Status: No Object Found</message>
+    </bw>
+    <by>
+        <service>whois.cctld.by</service>
+        <message>no entries found</message>
+    </by>
+    <bz>
+        <service>whois.afilias-grs.info.</service>
+        <message>NOT FOUND</message>
+    </bz>
+    <bzh>
+        <service>whois-bzh.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </bzh>
+    <ca>
+        <service>whois.cira.ca</service>
+        <message>Domain status: available</message>
+    </ca>
+    <cab>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </cab>
+    <cal>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </cal>
+    <camera>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </camera>
+    <camp>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </camp>
+    <cancerresearch>
+        <service>whois.nic.cancerresearch</service>
+        <message>No Data Found</message>
+    </cancerresearch>
+    <canon>
+        <service>whois.nic.canon</service>
+        <message>DOMAIN NOT FOUND</message>
+    </canon>
+    <capetown>
+        <service>capetown-whois.registry.net.za</service>
+        <message>Available</message>
+    </capetown>
+    <capital>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </capital>
+    <cards>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cards>
+    <care>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </care>
+    <career>
+        <service>whois.nic.career</service>
+        <message>No match for</message>
+    </career>
+    <careers>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </careers>
+    <casa>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </casa>
+    <cash>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cash>
+    <casino>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </casino>
+    <cat>
+        <service>whois.cat</service>
+        <message>NOT FOUND</message>
+    </cat>
+    <catering>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </catering>
+    <cc>
+        <service>whois.nic.cc</service>
+        <message>No match</message>
+    </cc>
+    <cd>
+        <service>whois.cd</service>
+        <message>No match</message>
+    </cd>
+    <center>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </center>
+    <ceo>
+        <service>whois.nic.ceo</service>
+        <message>Not found:</message>
+    </ceo>
+    <cern>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </cern>
+    <cf>
+        <service>whois.dot.cf</service>
+        <message>Invalid query or domain name not known</message>
+    </cf>
+    <ch>
+        <service>whois.nic.ch</service>
+        <message>not have an entry</message>
+    </ch>
+    <channel>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </channel>
+    <chat>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </chat>
+    <cheap>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cheap>
+    <christmas>
+        <service>whois.uniregistry.net</service>
+        <message>is available</message>
+    </christmas>
+    <chrome>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </chrome>
+    <church>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </church>
+    <ci>
+        <service>whois.nic.ci</service>
+        <message>not found</message>
+    </ci>
+    <city>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </city>
+    <cl>
+        <service>whois.nic.cl</service>
+        <message>no existe</message>
+    </cl>
+    <claims>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </claims>
+    <cleaning>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cleaning>
+    <click>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </click>
+    <clinic>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </clinic>
+    <clothing>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </clothing>
+    <club>
+        <service>whois.nic.club</service>
+        <message>Not found:</message>
+    </club>
+    <cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </cn>
+    <cn.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </cn.com>
+    <cng.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </cng.br>
+    <cnt.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </cnt.br>
+    <co>
+        <service>whois.nic.co</service>
+        <message>Not found</message>
+    </co>
+    <co.ac>
+        <service>whois.nic.ac</service>
+        <message>Available</message>
+    </co.ac>
+    <co.at>
+        <service>whois.nic.at</service>
+        <message>nothing found</message>
+    </co.at>
+    <co.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </co.il>
+    <co.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </co.in>
+    <co.jp>
+        <service>whois.nic.ad.jp</service>
+        <message>No match!!</message>
+    </co.jp>
+    <co.ke>
+        <service>whois.kenic.or.ke</service>
+        <message>Not Registered</message>
+    </co.ke>
+    <co.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </co.kr>
+    <co.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </co.nz>
+    <co.rs>
+        <service>whois.rnids.rs</service>
+        <message>%ERROR:103</message>
+    </co.rs>
+    <co.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </co.th>
+    <co.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </co.uk>
+    <co.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </co.ve>
+    <co.za>
+        <service>http://whois.registry.net.za/whois/whois.sh?Domain=</service>
+        <message>No Matches</message>
+    </co.za>
+    <coach>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </coach>
+    <codes>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </codes>
+    <coffee>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </coffee>
+    <college>
+        <service>whois.nic.college</service>
+        <message>DOMAIN NOT FOUND</message>
+    </college>
+    <cologne>
+        <service>whois-fe1.pdt.cologne.tango.knipp.de</service>
+        <message>% no matching objects found</message>
+    </cologne>
+    <com>
+        <service>whois.crsnic.net</service>
+        <message>No match for</message>
+    </com>
+    <com.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </com.au>
+    <com.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </com.br>
+    <com.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </com.cn>
+    <com.co>
+        <service>whois.nic.co</service>
+        <message>Not found</message>
+    </com.co>
+    <com.de>
+        <service>whois.centralnic.com</service>
+        <message>Status: free</message>
+    </com.de>
+    <com.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </com.ec>
+    <com.fr>
+        <service>whois.nic.fr</service>
+        <message>No entries found</message>
+    </com.fr>
+    <com.gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </com.gr>
+    <com.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </com.gt>
+    <com.hk>
+        <service>whois.hkdnr.net.hk</service>
+        <message>The domain has not been registered</message>
+    </com.hk>
+    <com.mm>
+        <service>whois.nic.mm</service>
+        <message>No domains matched</message>
+    </com.mm>
+    <com.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </com.mx>
+    <com.my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist</message>
+    </com.my>
+    <com.ph>
+        <service>http://www2.dot.ph/WhoIs.asp?Domain=</service>
+        <message>is still available</message>
+    </com.ph>
+    <com.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </com.pl>
+    <com.pt>
+        <service>whois.dns.pt</service>
+        <message>no match</message>
+    </com.pt>
+    <com.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </com.ro>
+    <com.ru>
+        <service>whois.ripn.net</service>
+        <message>No entries found</message>
+    </com.ru>
+    <com.sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </com.sg>
+    <com.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </com.tr>
+    <com.tw>
+        <service>whois.twnic.net</service>
+        <message>No Found</message>
+    </com.tw>
+    <com.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </com.ua>
+    <com.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </com.ve>
+    <community>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </community>
+    <company>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </company>
+    <computer>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </computer>
+    <condos>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </condos>
+    <construction>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </construction>
+    <consulting>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </consulting>
+    <contractors>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </contractors>
+    <cooking>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </cooking>
+    <cool>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cool>
+    <coop>
+        <service>whois.nic.coop</service>
+        <message>No domain records were found to match</message>
+    </coop>
+    <country>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </country>
+    <courses>
+        <service>whois.aridnrs.net.au</service>
+        <message>No Data Found</message>
+    </courses>
+    <cq.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </cq.cn>
+    <credit>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </credit>
+    <creditcard>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </creditcard>
+    <cricket>
+        <service>whois.nic.cricket</service>
+        <message>is available</message>
+    </cricket>
+    <cruises>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </cruises>
+    <cuisinella>
+        <service>whois.nic.cuisinella</service>
+        <message>No Data Found</message>
+    </cuisinella>
+    <cx>
+        <service>whois.nic.cx</service>
+        <message>No match for</message>
+    </cx>
+    <cymru>
+        <service>whois.nic.cymru</service>
+        <message>This domain name has not been registered.</message>
+    </cymru>
+    <cz>
+        <service>whois.nic.cz</service>
+        <message>No entries found</message>
+    </cz>
+    <dad>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </dad>
+    <dance>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </dance>
+    <dating>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </dating>
+    <datsun>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </datsun>
+    <day>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </day>
+    <dclk>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </dclk>
+    <de>
+        <service>whois.denic.de</service>
+        <message>Status: free</message>
+    </de>
+    <deals>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </deals>
+    <degree>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </degree>
+    <delivery>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </delivery>
+    <democrat>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </democrat>
+    <dental>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </dental>
+    <dentist>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </dentist>
+    <desi>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </desi>
+    <design>
+        <service>whois.nic.design</service>
+        <message>DOMAIN NOT FOUND</message>
+    </design>
+    <dev>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </dev>
+    <diamonds>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </diamonds>
+    <diet>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </diet>
+    <digital>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </digital>
+    <direct>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </direct>
+    <directory>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </directory>
+    <discount>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </discount>
+    <dk>
+        <service>whois.dk-hostmaster.dk</service>
+        <message>No entries found</message>
+    </dk>
+    <dm>
+        <service>whois.nic.dm</service>
+        <message>not found...</message>
+    </dm>
+    <dn.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </dn.ua>
+    <docs>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </docs>
+    <domains>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </domains>
+    <doosan>
+        <service>whois.nic.doosan</service>
+        <message>No match for</message>
+    </doosan>
+    <durban>
+        <service>durban-whois.registry.net.za</service>
+        <message>Available</message>
+    </durban>
+    <dvag>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </dvag>
+    <dz>
+        <service>whois.nic.dz</service>
+        <message>NO OBJECT FOUND!</message>
+    </dz>
+    <eat>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </eat>
+    <ec>
+        <service>whois.nic.ec</service>
+        <message>Status: Not Registered</message>
+    </ec>
+    <ecn.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </ecn.br>
+    <edu>
+        <service>whois.internic.net</service>
+        <message>No match for</message>
+    </edu>
+    <edu.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </edu.au>
+    <edu.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </edu.cn>
+    <edu.gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </edu.gr>
+    <edu.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </edu.gt>
+    <edu.hk>
+        <service>whois.hkdnr.net.hk</service>
+        <message>The domain has not been registered</message>
+    </edu.hk>
+    <edu.mm>
+        <service>whois.nic.mm</service>
+        <message>No domains matched</message>
+    </edu.mm>
+    <edu.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </edu.mx>
+    <edu.my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist</message>
+    </edu.my>
+    <edu.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </edu.pl>
+    <edu.pt>
+        <service>whois.dns.pt</service>
+        <message>no match</message>
+    </edu.pt>
+    <edu.rs>
+        <service>whois.rnids.rs</service>
+        <message>%ERROR:103</message>
+    </edu.rs>
+    <edu.sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </edu.sg>
+    <edu.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </edu.tr>
+    <edu.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </edu.za>
+    <education>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </education>
+    <ee>
+        <service>whois.tld.ee</service>
+        <message>% No entries found.</message>
+    </ee>
+    <email>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </email>
+    <emerck>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </emerck>
+    <energy>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </energy>
+    <eng.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </eng.br>
+    <engineer>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </engineer>
+    <engineering>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </engineering>
+    <enterprises>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </enterprises>
+    <epson>
+        <service>whois.aridnrs.net.au</service>
+        <message>No Data Found</message>
+    </epson>
+    <equipment>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </equipment>
+    <ernet.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </ernet.in>
+    <es>
+        <service>http://whois.virtualname.es/whois.php?domain=</service>
+        <message>LIBRE</message>
+    </es>
+    <esp.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </esp.br>
+    <esq>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </esq>
+    <estate>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </estate>
+    <etc.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </etc.br>
+    <eti.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </eti.br>
+    <eu>
+        <service>whois.eu</service>
+        <message>Status: AVAILABLE</message>
+    </eu>
+    <eu.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </eu.com>
+    <eu.lv>
+        <service>whois.biz</service>
+        <message>Not found</message>
+    </eu.lv>
+    <eurovision>
+        <service>whois.nic.eurovision</service>
+        <message>% no matching objects found</message>
+    </eurovision>
+    <eus>
+        <service>whois.eus.coreregistry.net</service>
+        <message>% no matching objects found</message>
+    </eus>
+    <events>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </events>
+    <exchange>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </exchange>
+    <expert>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </expert>
+    <exposed>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </exposed>
+    <fail>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </fail>
+    <fans>
+        <service>whois.nic.fans</service>
+        <message>DOMAIN NOT FOUND</message>
+    </fans>
+    <farm>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </farm>
+    <fashion>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </fashion>
+    <feedback>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </feedback>
+    <fi>
+        <service>whois.ficora.fi</service>
+        <message>Domain not found</message>
+    </fi>
+    <fin.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </fin.ec>
+    <finance>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </finance>
+    <financial>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </financial>
+    <firm.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </firm.ro>
+    <firmdale>
+        <service>whois.nic.firmdale</service>
+        <message>Domain Not Found</message>
+    </firmdale>
+    <fish>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </fish>
+    <fishing>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </fishing>
+    <fit>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </fit>
+    <fitness>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </fitness>
+    <flights>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </flights>
+    <florist>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </florist>
+    <flowers>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </flowers>
+    <flsmidth>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </flsmidth>
+    <fly>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </fly>
+    <fm>
+        <service>whois.nic.fm</service>
+        <message>Not Registered</message>
+    </fm>
+    <fm.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </fm.br>
+    <fo>
+        <service>whois.nic.fo</service>
+        <message>no entries found</message>
+    </fo>
+    <foo>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </foo>
+    <football>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </football>
+    <forsale>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </forsale>
+    <fot.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </fot.br>
+    <foundation>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </foundation>
+    <fr>
+        <service>whois.nic.fr</service>
+        <message>No entries found</message>
+    </fr>
+    <frl>
+        <service>whois.nic.frl</service>
+        <message>is still available</message>
+    </frl>
+    <frogans>
+        <service>whois-frogans.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </frogans>
+    <fst.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </fst.br>
+    <fund>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </fund>
+    <furniture>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </furniture>
+    <futbol>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found</message>
+    </futbol>
+    <g12.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </g12.br>
+    <gal>
+        <service>whois.gal.coreregistry.net</service>
+        <message>% no matching objects found</message>
+    </gal>
+    <gallery>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </gallery>
+    <garden>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </garden>
+    <gb.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </gb.com>
+    <gb.net>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </gb.net>
+    <gbiz>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </gbiz>
+    <gd>
+        <service>whois.nic.gd</service>
+        <message>not found...</message>
+    </gd>
+    <gd.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </gd.cn>
+    <gdn>
+        <service>whois.gdnregistry.com</service>
+        <message>Domain Not Found</message>
+    </gdn>
+    <geek.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </geek.nz>
+    <gen.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </gen.nz>
+    <gent>
+        <service>whois.nic.gent</service>
+        <message>is still available</message>
+    </gent>
+    <gf>
+        <service>whois.nplus.gf</service>
+        <message>not found in our database</message>
+    </gf>
+    <gg>
+        <service>whois.gg</service>
+        <message>NOT FOUND</message>
+    </gg>
+    <ggee>
+        <service>whois.nic.ggee</service>
+        <message>DOMAIN NOT FOUND</message>
+    </ggee>
+    <gi>
+        <service>whois2.afilias-grs.net</service>
+        <message>NOT FOUND</message>
+    </gi>
+    <gift>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </gift>
+    <gifts>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </gifts>
+    <gives>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </gives>
+    <gl>
+        <service>whois.nic.gl</service>
+        <message>Domain Status: No Object Found</message>
+    </gl>
+    <glass>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </glass>
+    <gle>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </gle>
+    <global>
+        <service>whois.nic.global</service>
+        <message>NOT FOUND</message>
+    </global>
+    <globo>
+        <service>whois.gtlds.nic.br</service>
+        <message>No match for</message>
+    </globo>
+    <gmail>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </gmail>
+    <gmina.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </gmina.pl>
+    <gmx>
+        <service>whois-fe1.gmx.tango.knipp.de</service>
+        <message>% no matching objects found</message>
+    </gmx>
+    <go.id>
+        <service>whois.idnic.net.id</service>
+        <message>Not found</message>
+    </go.id>
+    <go.jp>
+        <service>whois.nic.ad.jp</service>
+        <message>No match!!</message>
+    </go.jp>
+    <go.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </go.kr>
+    <go.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </go.th>
+    <gob.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </gob.gt>
+    <gob.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </gob.mx>
+    <goldpoint>
+        <service>whois.nic.goldpoint</service>
+        <message>DOMAIN NOT FOUND</message>
+    </goldpoint>
+    <goo>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </goo>
+    <goog>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </goog>
+    <google>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </google>
+    <gop>
+        <service>whois-cl01.mm-registry.com</service>
+        <message>is available for registration</message>
+    </gop>
+    <gov>
+        <service>whois.nic.gov</service>
+        <message>No match for</message>
+    </gov>
+    <gov.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </gov.br>
+    <gov.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </gov.cn>
+    <gov.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </gov.ec>
+    <gov.gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </gov.gr>
+    <gov.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </gov.il>
+    <gov.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </gov.in>
+    <gov.mm>
+        <service>whois.nic.mm</service>
+        <message>No domains matched</message>
+    </gov.mm>
+    <gov.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </gov.mx>
+    <gov.my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist</message>
+    </gov.my>
+    <gov.sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </gov.sg>
+    <gov.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </gov.tr>
+    <gov.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </gov.za>
+    <gq>
+        <service>whois.dominio.gq</service>
+        <message>Invalid query or domain name not known</message>
+    </gq>
+    <gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </gr>
+    <graphics>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </graphics>
+    <gratis>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </gratis>
+    <green>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </green>
+    <gripe>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </gripe>
+    <gs>
+        <service>whois.nic.gs</service>
+        <message>No Object Found</message>
+    </gs>
+    <gs.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </gs.cn>
+    <gsm.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </gsm.pl>
+    <guide>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </guide>
+    <guitars>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </guitars>
+    <guru>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </guru>
+    <gv.ac>
+        <service>whois.nic.ac</service>
+        <message>Available</message>
+    </gv.ac>
+    <gv.at>
+        <service>whois.nic.at</service>
+        <message>nothing found</message>
+    </gv.at>
+    <gx.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </gx.cn>
+    <gy>
+        <service>whois.registry.gy</service>
+        <message>Domain Status: No Object Found</message>
+    </gy>
+    <gz.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </gz.cn>
+    <hamburg>
+        <service>whois.nic.hamburg</service>
+        <message>% No match</message>
+    </hamburg>
+    <hangout>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </hangout>
+    <haus>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </haus>
+    <hb.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </hb.cn>
+    <he.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </he.cn>
+    <healthcare>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </healthcare>
+    <help>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </help>
+    <here>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </here>
+    <hi.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </hi.cn>
+    <hiphop>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </hiphop>
+    <hiv>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </hiv>
+    <hk>
+        <service>whois.hkirc.hk</service>
+        <message>The domain has not been registered</message>
+    </hk>
+    <hk.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </hk.cn>
+    <hl.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </hl.cn>
+    <hn>
+        <service>whois.nic.hn</service>
+        <message>Domain Status: No Object Found</message>
+    </hn>
+    <hn.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </hn.cn>
+    <holdings>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </holdings>
+    <holiday>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </holiday>
+    <horse>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </horse>
+    <host>
+        <service>whois.nic.host</service>
+        <message>DOMAIN NOT FOUND</message>
+    </host>
+    <hosting>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </hosting>
+    <house>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </house>
+    <how>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </how>
+    <hr>
+        <service>http://dns.hr/?only_mod_instance=300_612_0&amp;clean_tpl=true&amp;ds_domena=</service>
+        <message>nije registrirana</message>
+    </hr>
+    <ht>
+        <service>whois.nic.ht</service>
+        <message>Domain Status: No Object Found</message>
+    </ht>
+    <hu>
+        <service>whois.nic.hu</service>
+        <message>No match</message>
+    </hu>
+    <hu.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </hu.com>
+    <ibm>
+        <service>whois.nic.ibm</service>
+        <message>No Data Found</message>
+    </ibm>
+    <id>
+        <service>whois.pandi.or.id</service>
+        <message>DOMAIN NOT FOUND</message>
+    </id>
+    <id.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </id.au>
+    <ie>
+        <service>whois.domainregistry.ie</service>
+        <message>% Not Registered</message>
+    </ie>
+    <ifm>
+        <service>whois.nic.ifm</service>
+        <message>% no matching objects found</message>
+    </ifm>
+    <il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </il>
+    <im>
+        <service>whois.nic.im</service>
+        <message>was not found</message>
+    </im>
+    <immo>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </immo>
+    <immobilien>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </immobilien>
+    <in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </in>
+    <in.rs>
+        <service>whois.rnids.rs</service>
+        <message>%ERROR:103</message>
+    </in.rs>
+    <in.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </in.th>
+    <ind.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </ind.br>
+    <ind.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </ind.gt>
+    <industries>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </industries>
+    <inf.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </inf.br>
+    <infiniti>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </infiniti>
+    <info>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </info>
+    <info.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </info.pl>
+    <info.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </info.ro>
+    <info.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </info.ve>
+    <ing>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </ing>
+    <ink>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </ink>
+    <institute>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </institute>
+    <insure>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </insure>
+    <int>
+        <service>whois.iana.org</service>
+        <message>but this server does not have</message>
+    </int>
+    <international>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </international>
+    <investments>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </investments>
+    <io>
+        <service>whois.nic.io</service>
+        <message>NOT FOUND</message>
+    </io>
+    <iq>
+        <service>whois.cmc.iq</service>
+        <message>Domain Status: No Object Found</message>
+    </iq>
+    <ir>
+        <service>whois.nic.ir</service>
+        <message>no entries found</message>
+    </ir>
+    <is>
+        <service>whois.isnic.is</service>
+        <message>No entries found</message>
+    </is>
+    <it>
+        <service>whois.nic.it</service>
+        <message>AVAILABLE</message>
+    </it>
+    <iwi.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </iwi.nz>
+    <java>
+        <service>whois.nic.java</service>
+        <message>No match for</message>
+    </java>
+    <jcb>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </jcb>
+    <je>
+        <service>whois.je</service>
+        <message>NOT FOUND</message>
+    </je>
+    <jl.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </jl.cn>
+    <jobs>
+        <service>jobswhois.verisign-grs.com</service>
+        <message>No match for</message>
+    </jobs>
+    <joburg>
+        <service>joburg-whois.registry.net.za</service>
+        <message>Available</message>
+    </joburg>
+    <jor.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </jor.br>
+    <jp>
+        <service>whois.jprs.jp</service>
+        <message>No match!!</message>
+    </jp>
+    <js.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </js.cn>
+    <juegos>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </juegos>
+    <k12.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </k12.il>
+    <k12.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </k12.tr>
+    <kaufen>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </kaufen>
+    <kddi>
+        <service>whois.nic.kddi</service>
+        <message>DOMAIN NOT FOUND</message>
+    </kddi>
+    <ke>
+        <service>whois.kenic.or.ke</service>
+        <message>Domain Status: No Object Found</message>
+    </ke>
+    <kg>
+        <service>whois.domain.kg</service>
+        <message>is available for registration</message>
+    </kg>
+    <kh.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </kh.ua>
+    <ki>
+        <service>whois.nic.ki</service>
+        <message>Domain Status: No Object Found</message>
+    </ki>
+    <kiev.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </kiev.ua>
+    <kim>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </kim>
+    <kitchen>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </kitchen>
+    <kiwi>
+        <service>whois.nic.kiwi</service>
+        <message>is available for registration</message>
+    </kiwi>
+    <kiwi.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </kiwi.nz>
+    <koeln>
+        <service>whois-fe1.pdt.koeln.tango.knipp.de</service>
+        <message>% no matching objects found</message>
+    </koeln>
+    <kr>
+        <service>whois.kr</service>
+        <message>is not registered</message>
+    </kr>
+    <krd>
+        <service>whois.aridnrs.net.au</service>
+        <message>No Data Found</message>
+    </krd>
+    <ky>
+        <service>whois.kyregistry.ky</service>
+        <message>is available for</message>
+    </ky>
+    <kyoto>
+        <service>whois.nic.kyoto</service>
+        <message>DOMAIN NOT FOUND</message>
+    </kyoto>
+    <kz>
+        <service>whois.nic.kz</service>
+        <message>Nothing found for this query.</message>
+    </kz>
+    <la>
+        <service>whois.nic.la</service>
+        <message>NOT FOUND</message>
+    </la>
+    <lacaixa>
+        <service>whois.nic.lacaixa</service>
+        <message>% no matching objects found</message>
+    </lacaixa>
+    <land>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </land>
+    <lat>
+        <service>whois.nic.lat</service>
+        <message>Object_Not_Found</message>
+    </lat>
+    <latrobe>
+        <service>whois.nic.latrobe</service>
+        <message>No Data Found</message>
+    </latrobe>
+    <lawyer>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </lawyer>
+    <lc>
+        <service>whois2.afilias-grs.net</service>
+        <message>NOT FOUND</message>
+    </lc>
+    <lease>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </lease>
+    <leclerc>
+        <service>whois-leclerc.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </leclerc>
+    <legal>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </legal>
+    <lel.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </lel.br>
+    <lg.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </lg.ua>
+    <lgbt>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </lgbt>
+    <li>
+        <service>whois.nic.li</service>
+        <message>do not have an entry in our database matching your query</message>
+    </li>
+    <life>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </life>
+    <lighting>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </lighting>
+    <limited>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </limited>
+    <limo>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </limo>
+    <link>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </link>
+    <ln.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </ln.cn>
+    <loans>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </loans>
+    <london>
+        <service>whois-lon.mm-registry.com</service>
+        <message>is available for registration</message>
+    </london>
+    <lotte>
+        <service>whois.nic.lotte</service>
+        <message>DOMAIN NOT FOUND</message>
+    </lotte>
+    <lt>
+        <service>whois.domreg.lt</service>
+        <message>Status:			available</message>
+    </lt>
+    <ltd.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </ltd.uk>
+    <ltda>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </ltda>
+    <lu>
+        <service>whois.dns.lu</service>
+        <message>No such domain</message>
+    </lu>
+    <luxe>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </luxe>
+    <luxury>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </luxury>
+    <lv>
+        <service>whois.nic.lv</service>
+        <message>Status: free</message>
+    </lv>
+    <lviv.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </lviv.ua>
+    <ly>
+        <service>whois.nic.ly</service>
+        <message>Not found</message>
+    </ly>
+    <ma>
+        <service>whois.iam.net.ma</service>
+        <message>Domain Status: No Object Found</message>
+    </ma>
+    <madrid>
+        <service>whois.madrid.rs.corenic.net</service>
+        <message>% no matching objects found</message>
+    </madrid>
+    <mail.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </mail.pl>
+    <maison>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </maison>
+    <management>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </management>
+    <mango>
+        <service>whois.mango.coreregistry.net</service>
+        <message>% no matching objects found</message>
+    </mango>
+    <maori.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </maori.nz>
+    <market>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </market>
+    <marketing>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </marketing>
+    <md>
+        <service>whois.nic.md</service>
+        <message>No match for</message>
+    </md>
+    <me>
+        <service>whois.meregistry.net</service>
+        <message>NOT FOUND</message>
+    </me>
+    <me.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </me.uk>
+    <med.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </med.br>
+    <med.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </med.ec>
+    <media>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </media>
+    <media.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </media.pl>
+    <melbourne>
+        <service>whois.aridnrs.net.au</service>
+        <message>No Data Found</message>
+    </melbourne>
+    <meme>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </meme>
+    <memorial>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </memorial>
+    <menu>
+        <service>whois.nic.menu</service>
+        <message>No Data Found</message>
+    </menu>
+    <mg>
+        <service>whois.nic.mg</service>
+        <message>Domain Status: No Object Found</message>
+    </mg>
+    <mi.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </mi.th>
+    <miami>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </miami>
+    <miasta.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </miasta.pl>
+    <mil>
+        <service>whois.internic.net</service>
+        <message>No match for</message>
+    </mil>
+    <mil.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </mil.br>
+    <mil.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </mil.ec>
+    <mil.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </mil.gt>
+    <mil.id>
+        <service>whois.idnic.net.id</service>
+        <message>Not found</message>
+    </mil.id>
+    <mil.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </mil.pl>
+    <mil.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </mil.tr>
+    <mil.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </mil.za>
+    <mini>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </mini>
+    <mk>
+        <service>whois.marnet.mk</service>
+        <message>% No entries found.</message>
+    </mk>
+    <ml>
+        <service>whois.dot.ml</service>
+        <message>Invalid query or domain name not known</message>
+    </ml>
+    <mn>
+        <service>whois.afilias-grs.info</service>
+        <message>NOT FOUND</message>
+    </mn>
+    <mo>
+        <service>whois.monic.mo</service>
+        <message>No match for</message>
+    </mo>
+    <mo.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </mo.cn>
+    <mobi>
+        <service>whois.dotmobiregistry.net</service>
+        <message>NOT FOUND</message>
+    </mobi>
+    <moda>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </moda>
+    <monash>
+        <service>whois.nic.monash</service>
+        <message>No Data Found</message>
+    </monash>
+    <money>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </money>
+    <mortgage>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </mortgage>
+    <moscow>
+        <service>whois.nic.moscow</service>
+        <message>No entries found</message>
+    </moscow>
+    <mov>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </mov>
+    <ms>
+        <service>whois.nic.ms</service>
+        <message>No Object Found</message>
+    </ms>
+    <msk.ru>
+        <service>whois.nic.ru</service>
+        <message>No entries found</message>
+    </msk.ru>
+    <mtpc>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </mtpc>
+    <mu>
+        <service>whois.nic.mu</service>
+        <message>Domain Status: No Object Found</message>
+    </mu>
+    <muni.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </muni.il>
+    <museum>
+        <service>whois.museum</service>
+        <message>NOT FOUND</message>
+    </museum>
+    <mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </mx>
+    <my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist in database</message>
+    </my>
+    <mz>
+        <service>whois.nic.mz</service>
+        <message>Domain Status: No Object Found</message>
+    </mz>
+    <na>
+        <service>whois.na-nic.com.na</service>
+        <message>Domain Status: No Object Found</message>
+    </na>
+    <name>
+        <service>whois.nic.name</service>
+        <message>No match</message>
+    </name>
+    <navy>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </navy>
+    <nc>
+        <service>whois.nc</service>
+        <message>No entries found</message>
+    </nc>
+    <ne.jp>
+        <service>whois.nic.ad.jp</service>
+        <message>No match!!</message>
+    </ne.jp>
+    <ne.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </ne.kr>
+    <net>
+        <service>whois.crsnic.net</service>
+        <message>No match for</message>
+    </net>
+    <net.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </net.au>
+    <net.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </net.br>
+    <net.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </net.cn>
+    <net.co>
+        <service>whois.nic.co</service>
+        <message>Not found</message>
+    </net.co>
+    <net.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </net.ec>
+    <net.gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </net.gr>
+    <net.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </net.gt>
+    <net.hk>
+        <service>whois.hkdnr.net.hk</service>
+        <message>The domain has not been registered</message>
+    </net.hk>
+    <net.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </net.il>
+    <net.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </net.in>
+    <net.mm>
+        <service>whois.nic.mm</service>
+        <message>No domains matched</message>
+    </net.mm>
+    <net.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </net.mx>
+    <net.my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist</message>
+    </net.my>
+    <net.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </net.nz>
+    <net.ph>
+        <service>http://www2.dot.ph/WhoIs.asp?Domain=</service>
+        <message>is still available</message>
+    </net.ph>
+    <net.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </net.pl>
+    <net.ru>
+        <service>whois.ripn.net</service>
+        <message>No entries found</message>
+    </net.ru>
+    <net.sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </net.sg>
+    <net.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </net.th>
+    <net.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </net.tr>
+    <net.tw>
+        <service>whois.twnic.net</service>
+        <message>No Found</message>
+    </net.tw>
+    <net.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </net.ua>
+    <net.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </net.uk>
+    <net.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </net.ve>
+    <net.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </net.za>
+    <network>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </network>
+    <new>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </new>
+    <nexus>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </nexus>
+    <nf>
+        <service>whois.nic.nf</service>
+        <message>Domain Status: No Object Found</message>
+    </nf>
+    <ng>
+        <service>whois.nic.net.ng</service>
+        <message>Domain Status: No Object Found</message>
+    </ng>
+    <ngo>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </ngo>
+    <ngo.ph>
+        <service>http://www2.dot.ph/WhoIs.asp?Domain=</service>
+        <message>is still available</message>
+    </ngo.ph>
+    <ngo.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </ngo.za>
+    <nico>
+        <service>whois.nic.nico</service>
+        <message>DOMAIN NOT FOUND</message>
+    </nico>
+    <ninja>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </ninja>
+    <nissan>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </nissan>
+    <nl>
+        <service>whois.domain-registry.nl</service>
+        <message>is free</message>
+    </nl>
+    <nm.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </nm.cn>
+    <nm.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </nm.kr>
+    <no>
+        <service>whois.norid.no</service>
+        <message>No match</message>
+    </no>
+    <no.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </no.com>
+    <nom.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </nom.br>
+    <nom.co>
+        <service>whois.nic.co</service>
+        <message>Not found</message>
+    </nom.co>
+    <nom.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </nom.pl>
+    <nom.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </nom.ro>
+    <nom.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </nom.za>
+    <nra>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </nra>
+    <nrw>
+        <service>whois.nic.nrw</service>
+        <message>% no matching objects found</message>
+    </nrw>
+    <nt.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </nt.ro>
+    <ntr.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </ntr.br>
+    <nu>
+        <service>whois.nic.nu</service>
+        <message>not found</message>
+    </nu>
+    <nx.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </nx.cn>
+    <nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </nz>
+    <odo.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </odo.br>
+    <om>
+        <service>whois.registry.om</service>
+        <message>No Data Found</message>
+    </om>
+    <one>
+        <service>whois.nic.one</service>
+        <message>No Data Found</message>
+    </one>
+    <ong>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </ong>
+    <onl>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </onl>
+    <ooo>
+        <service>whois.nic.ooo</service>
+        <message>No match for</message>
+    </ooo>
+    <or.ac>
+        <service>whois.nic.ac</service>
+        <message>Available</message>
+    </or.ac>
+    <or.at>
+        <service>whois.nic.at</service>
+        <message>nothing found</message>
+    </or.at>
+    <or.jp>
+        <service>whois.nic.ad.jp</service>
+        <message>No match!!</message>
+    </or.jp>
+    <or.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </or.kr>
+    <or.th>
+        <service>whois.thnic.net</service>
+        <message>No match for</message>
+    </or.th>
+    <org>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </org>
+    <org.au>
+        <service>whois.aunic.net</service>
+        <message>No Data Found</message>
+    </org.au>
+    <org.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </org.br>
+    <org.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </org.cn>
+    <org.ec>
+        <service>whois.lac.net</service>
+        <message>No match found</message>
+    </org.ec>
+    <org.gr>
+        <service>http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=</service>
+        <message>not exist</message>
+    </org.gr>
+    <org.gt>
+        <service>http://www.gt/cgi-bin/whois.cgi?domain=</service>
+        <message>DOMINIO NO REGISTRADO</message>
+    </org.gt>
+    <org.hk>
+        <service>whois.hkdnr.net.hk</service>
+        <message>The domain has not been registered</message>
+    </org.hk>
+    <org.il>
+        <service>whois.isoc.org.il</service>
+        <message>No data was found</message>
+    </org.il>
+    <org.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </org.in>
+    <org.mm>
+        <service>whois.nic.mm</service>
+        <message>No domains matched</message>
+    </org.mm>
+    <org.mx>
+        <service>whois.nic.mx</service>
+        <message>Object_Not_Found</message>
+    </org.mx>
+    <org.my>
+        <service>whois.mynic.net.my</service>
+        <message>does not exist</message>
+    </org.my>
+    <org.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </org.nz>
+    <org.ph>
+        <service>http://www2.dot.ph/WhoIs.asp?Domain=</service>
+        <message>is still available</message>
+    </org.ph>
+    <org.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </org.pl>
+    <org.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </org.ro>
+    <org.rs>
+        <service>whois.rnids.rs</service>
+        <message>%ERROR:103</message>
+    </org.rs>
+    <org.ru>
+        <service>whois.nic.ru</service>
+        <message>No entries found</message>
+    </org.ru>
+    <org.sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </org.sg>
+    <org.tr>
+        <service>whois.metu.edu.tr</service>
+        <message>No match found</message>
+    </org.tr>
+    <org.tw>
+        <service>whois.twnic.net</service>
+        <message>No Found</message>
+    </org.tw>
+    <org.ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </org.ua>
+    <org.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </org.uk>
+    <org.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </org.ve>
+    <org.za>
+        <service>http://org.za/cgi-bin/rwhois?format=full&amp;domain=</service>
+        <message>Domain not registered</message>
+    </org.za>
+    <organic>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </organic>
+    <ovh>
+        <service>whois-ovh.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </ovh>
+    <paris>
+        <service>whois-paris.nic.fr</service>
+        <message>Requested Domain cannot be found</message>
+    </paris>
+    <partners>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </partners>
+    <parts>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </parts>
+    <pc.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </pc.pl>
+    <pe>
+        <service>kero.yachay.pe</service>
+        <message>Status: Not Registered</message>
+    </pe>
+    <pf>
+        <service>whois.registry.pf</service>
+        <message>Domain unknown</message>
+    </pf>
+    <ph>
+        <service>http://www2.dot.ph/WhoIs.asp?Domain=</service>
+        <message>is still available</message>
+    </ph>
+    <photo>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </photo>
+    <photography>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </photography>
+    <photos>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </photos>
+    <physio>
+        <service>whois.nic.physio</service>
+        <message>No Data Found</message>
+    </physio>
+    <pics>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </pics>
+    <pictures>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </pictures>
+    <pink>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </pink>
+    <pizza>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </pizza>
+    <pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </pl>
+    <place>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </place>
+    <plc.uk>
+        <service>whois.nic.uk</service>
+        <message>No match</message>
+    </plc.uk>
+    <plumbing>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </plumbing>
+    <pm>
+        <service>whois.nic.pm</service>
+        <message>No entries found</message>
+    </pm>
+    <pohl>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </pohl>
+    <poker>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </poker>
+    <porn>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </porn>
+    <post>
+        <service>whois.dotpostregistry.net</service>
+        <message>NOT FOUND</message>
+    </post>
+    <pp.ru>
+        <service>whois.nic.ru</service>
+        <message>No entries found</message>
+    </pp.ru>
+    <ppg.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </ppg.br>
+    <pr>
+        <service>whois.nic.pr</service>
+        <message>is not registered</message>
+    </pr>
+    <press>
+        <service>whois.nic.press</service>
+        <message>DOMAIN NOT FOUND</message>
+    </press>
+    <presse.fr>
+        <service>whois.nic.fr</service>
+        <message>No entries found</message>
+    </presse.fr>
+    <priv.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </priv.pl>
+    <pro>
+        <service>whois.registrypro.pro</service>
+        <message>NOT FOUND</message>
+    </pro>
+    <pro.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </pro.br>
+    <prod>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </prod>
+    <productions>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </productions>
+    <prof>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </prof>
+    <properties>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </properties>
+    <property>
+        <service>whois.uniregistry.net</service>
+        <message>is available for</message>
+    </property>
+    <psc.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </psc.br>
+    <psi.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </psi.br>
+    <pt>
+        <service>whois.dns.pt</service>
+        <message>no match</message>
+    </pt>
+    <pub>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </pub>
+    <pw>
+        <service>whois.nic.pw</service>
+        <message>DOMAIN NOT FOUND</message>
+    </pw>
+    <qa>
+        <service>whois.registry.qa</service>
+        <message>No Data Found</message>
+    </qa>
+    <qc.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </qc.com>
+    <qh.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </qh.cn>
+    <quebec>
+        <service>whois.nic.quebec</service>
+        <message>% no matching objects found</message>
+    </quebec>
+    <re>
+        <service>whois.nic.re</service>
+        <message>No entries found</message>
+    </re>
+    <re.kr>
+        <service>whois.nic.or.kr</service>
+        <message>is not registered</message>
+    </re.kr>
+    <realestate.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </realestate.pl>
+    <rec.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </rec.br>
+    <rec.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </rec.ro>
+    <recipes>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </recipes>
+    <red>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </red>
+    <rehab>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </rehab>
+    <reise>
+        <service>whois.nic.reise</service>
+        <message>% No match</message>
+    </reise>
+    <reisen>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </reisen>
+    <reit>
+        <service>whois.nic.reit</service>
+        <message>DOMAIN NOT FOUND</message>
+    </reit>
+    <rel.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </rel.pl>
+    <rentals>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </rentals>
+    <repair>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </repair>
+    <report>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </report>
+    <republican>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </republican>
+    <res.in>
+        <service>whois.inregistry.in</service>
+        <message>NOT FOUND</message>
+    </res.in>
+    <rest>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </rest>
+    <restaurant>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </restaurant>
+    <reviews>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </reviews>
+    <rich>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </rich>
+    <rio>
+        <service>whois.gtlds.nic.br</service>
+        <message>No match for</message>
+    </rio>
+    <rip>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </rip>
+    <ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </ro>
+    <rocks>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </rocks>
+    <rodeo>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </rodeo>
+    <rs>
+        <service>whois.rnids.rs</service>
+        <message>%ERROR:103</message>
+    </rs>
+    <rsvp>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </rsvp>
+    <ru>
+        <service>whois.ripn.net</service>
+        <message>No entries found</message>
+    </ru>
+    <ruhr>
+        <service>whois.nic.ruhr</service>
+        <message>% no matching objects found</message>
+    </ruhr>
+    <sa>
+        <service>whois.nic.net.sa</service>
+        <message>No Match</message>
+    </sa>
+    <sa.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </sa.com>
+    <saarland>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </saarland>
+    <sale>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </sale>
+    <samsung>
+        <service>whois.nic.samsung</service>
+        <message>No match for</message>
+    </samsung>
+    <sarl>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </sarl>
+    <saxo>
+        <service>whois.aridnrs.net.au</service>
+        <message>No Data Found</message>
+    </saxo>
+    <sb>
+        <service>whois.nic.net.sb</service>
+        <message>Domain Status: No Object Found</message>
+    </sb>
+    <sc>
+        <service>wawa.eahd.or.ug</service>
+        <message>No entries found</message>
+    </sc>
+    <sc.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </sc.cn>
+    <sca>
+        <service>whois.nic.sca</service>
+        <message>No match for</message>
+    </sca>
+    <scb>
+        <service>whois.nic.scb</service>
+        <message>NOT FOUND</message>
+    </scb>
+    <schmidt>
+        <service>whois.nic.schmidt</service>
+        <message>No Data Found</message>
+    </schmidt>
+    <school>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </school>
+    <school.nz>
+        <service>whois.srs.net.nz</service>
+        <message>220 Available</message>
+    </school.nz>
+    <school.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </school.za>
+    <schule>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </schule>
+    <scot>
+        <service>whois.scot.coreregistry.net</service>
+        <message>% no matching objects found</message>
+    </scot>
+    <se>
+        <service>whois.iis.se</service>
+        <message>not found</message>
+    </se>
+    <se.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </se.com>
+    <se.net>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </se.net>
+    <services>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </services>
+    <sexy>
+        <service>whois.uniregistry.net</service>
+        <message>is available for registration</message>
+    </sexy>
+    <sg>
+        <service>whois.nic.net.sg</service>
+        <message>Domain Not Found</message>
+    </sg>
+    <sh>
+        <service>whois.nic.sh</service>
+        <message>is available for purchase</message>
+    </sh>
+    <sh.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </sh.cn>
+    <shiksha>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </shiksha>
+    <shoes>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </shoes>
+    <shop.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </shop.pl>
+    <si>
+        <service>whois.arnes.si</service>
+        <message>No entries found</message>
+    </si>
+    <singles>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </singles>
+    <sk>
+        <service>whois.sk-nic.sk</service>
+        <message>Not found</message>
+    </sk>
+    <sklep.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </sklep.pl>
+    <sky>
+        <service>whois.nic.sky</service>
+        <message>No match for</message>
+    </sky>
+    <slg.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </slg.br>
+    <sm>
+        <service>whois.nic.sm</service>
+        <message>No entries found</message>
+    </sm>
+    <sn>
+        <service>whois.nic.sn</service>
+        <message>NOT FOUND</message>
+    </sn>
+    <sn.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </sn.cn>
+    <so>
+        <service>whois.nic.so</service>
+        <message>DOMAIN NOT FOUND</message>
+    </so>
+    <sochi.su>
+        <service>whois.nic.ru</service>
+        <message>No entries found</message>
+    </sochi.su>
+    <social>
+        <service>whois.unitedtld.com</service>
+        <message>Domain not found.</message>
+    </social>
+    <software>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </software>
+    <solar>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </solar>
+    <solutions>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </solutions>
+    <sos.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </sos.pl>
+    <soy>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </soy>
+    <space>
+        <service>whois.nic.space</service>
+        <message>DOMAIN NOT FOUND</message>
+    </space>
+    <spb.ru>
+        <service>whois.nic.ru</service>
+        <message>No entries found</message>
+    </spb.ru>
+    <spiegel>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </spiegel>
+    <st>
+        <service>whois.nic.st</service>
+        <message>No entries found</message>
+    </st>
+    <store.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </store.ro>
+    <study>
+        <service>whois.nic.study</service>
+        <message>No Data Found</message>
+    </study>
+    <style>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </style>
+    <su>
+        <service>whois.ripn.net</service>
+        <message>No entries found</message>
+    </su>
+    <sucks>
+        <service>whois.nic.sucks</service>
+        <message>No Data Found</message>
+    </sucks>
+    <supplies>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </supplies>
+    <supply>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </supply>
+    <support>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </support>
+    <surf>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </surf>
+    <surgery>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </surgery>
+    <sx>
+        <service>whois.sx</service>
+        <message>Status: AVAILABLE</message>
+    </sx>
+    <sy>
+        <service>whois.tld.sy</service>
+        <message>Available</message>
+    </sy>
+    <sydney>
+        <service>whois.nic.sydney</service>
+        <message>No Data Found</message>
+    </sydney>
+    <systems>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </systems>
+    <taipei>
+        <service>whois.nic.taipei</service>
+        <message>Not found:</message>
+    </taipei>
+    <targi.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </targi.pl>
+    <tattoo>
+        <service>whois.uniregistry.net</service>
+        <message>is available for registration</message>
+    </tattoo>
+    <tax>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </tax>
+    <tc>
+        <service>whois.adamsnames.tc</service>
+        <message>Available</message>
+    </tc>
+    <technology>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </technology>
+    <tel>
+        <service>whois.nic.tel</service>
+        <message>Not found</message>
+    </tel>
+    <tennis>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </tennis>
+    <tf>
+        <service>whois.nic.tf</service>
+        <message>No entries found</message>
+    </tf>
+    <th>
+        <service>whois.thnic.co.th</service>
+        <message>No match for</message>
+    </th>
+    <tienda>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </tienda>
+    <tips>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </tips>
+    <tires>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </tires>
+    <tirol>
+        <service>whois.nic.tirol</service>
+        <message>% No match</message>
+    </tirol>
+    <tj>
+        <service>whois.nic.tj</service>
+        <message>No match</message>
+    </tj>
+    <tj.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </tj.cn>
+    <tk>
+        <service>https://partners.nic.tk/cgi-bin/whmcs-whois.taloha?d=</service>
+        <message>has no matches</message>
+    </tk>
+    <tl>
+        <service>whois.nic.tl</service>
+        <message>Domain Status: No Object Found</message>
+    </tl>
+    <tm>
+        <service>whois.nic.tm</service>
+        <message>is available</message>
+    </tm>
+    <tm.fr>
+        <service>whois.nic.fr</service>
+        <message>No entries found</message>
+    </tm.fr>
+    <tm.mc>
+        <service>whois.ripe.net</service>
+        <message>no entries found</message>
+    </tm.mc>
+    <tm.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </tm.pl>
+    <tm.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </tm.ro>
+    <tm.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </tm.za>
+    <tmp.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </tmp.br>
+    <tn>
+        <service>whois.ati.tn</service>
+        <message>NO OBJECT FOUND!</message>
+    </tn>
+    <to>
+        <service>monarch.tonic.to</service>
+        <message>No match for</message>
+    </to>
+    <today>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </today>
+    <tools>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </tools>
+    <top>
+        <service>whois.nic.top</service>
+        <message>No match</message>
+    </top>
+    <toshiba>
+        <service>whois.nic.toshiba</service>
+        <message>DOMAIN NOT FOUND</message>
+    </toshiba>
+    <tourism.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </tourism.pl>
+    <town>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </town>
+    <toys>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </toys>
+    <training>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </training>
+    <travel>
+        <service>whois.nic.travel</service>
+        <message>Not found</message>
+    </travel>
+    <travel.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </travel.pl>
+    <trust>
+        <service>whois.nic.trust</service>
+        <message>No Data Found</message>
+    </trust>
+    <tt>
+        <service>https://www.nic.tt/cgi-bin/search.pl?name=</service>
+        <message>is available</message>
+    </tt>
+    <tui>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </tui>
+    <tur.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </tur.br>
+    <turystyka.pl>
+        <service>whois.dns.pl</service>
+        <message>No information available</message>
+    </turystyka.pl>
+    <tv>
+        <service>whois.nic.tv</service>
+        <message>No match for</message>
+    </tv>
+    <tv.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </tv.br>
+    <tw>
+        <service>whois.twnic.net.tw</service>
+        <message>No Found</message>
+    </tw>
+    <tw.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </tw.cn>
+    <tz>
+        <service>whois.tznic.or.tz</service>
+        <message>% No entries found.</message>
+    </tz>
+    <ua>
+        <service>whois.net.ua</service>
+        <message>No entries found</message>
+    </ua>
+    <ug>
+        <service>whois.co.ug</service>
+        <message>% No entries found.</message>
+    </ug>
+    <uk>
+        <service>whois.nic.uk</service>
+        <message>This domain name has not been registered.</message>
+    </uk>
+    <uk.co>
+        <service>whois.uk.co</service>
+        <message>NO MATCH</message>
+    </uk.co>
+    <uk.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </uk.com>
+    <uk.net>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </uk.net>
+    <university>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </university>
+    <uno>
+        <service>whois.uno.nic</service>
+        <message>Not found</message>
+    </uno>
+    <uol>
+        <service>whois.gtlds.nic.br</service>
+        <message>No match for</message>
+    </uol>
+    <us>
+        <service>whois.nic.us</service>
+        <message>Not found</message>
+    </us>
+    <us.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </us.com>
+    <uy>
+        <service>whois.nic.org.uy</service>
+        <message>No match for</message>
+    </uy>
+    <uy.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </uy.com>
+    <uz>
+        <service>whois.cctld.uz</service>
+        <message>not found...</message>
+    </uz>
+    <vacations>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </vacations>
+    <vc>
+        <service>whois.adamsnames.tc</service>
+        <message>Available</message>
+    </vc>
+    <ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </ve>
+    <vegas>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </vegas>
+    <ventures>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </ventures>
+    <versicherung>
+        <service>whois.nic.versicherung</service>
+        <message>% No match</message>
+    </versicherung>
+    <vet>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </vet>
+    <vet.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </vet.br>
+    <vg>
+        <service>whois.adamsnames.tc</service>
+        <message>No Object Found</message>
+    </vg>
+    <viajes>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </viajes>
+    <video>
+        <service>whois.rightside.co</service>
+        <message>Domain not found.</message>
+    </video>
+    <villas>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </villas>
+    <vision>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </vision>
+    <vlaanderen>
+        <service>whois.nic.vlaanderen</service>
+        <message>is still available</message>
+    </vlaanderen>
+    <vodka>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </vodka>
+    <vote>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </vote>
+    <voting>
+        <service>whois.voting.tld-box.at</service>
+        <message>% No match</message>
+    </voting>
+    <voto>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </voto>
+    <voyage>
+        <service>whois.donuts.co</service>
+        <message>Domain not found</message>
+    </voyage>
+    <vu>
+        <service>vunic.vu</service>
+        <message>is not valid!</message>
+    </vu>
+    <wales>
+        <service>whois.nic.wales</service>
+        <message>This domain name has not been registered.</message>
+    </wales>
+    <wang>
+        <service>whois.gtld.knet.cn</service>
+        <message>No match</message>
+    </wang>
+    <watch>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </watch>
+    <web.ve>
+        <service>whois.nic.ve</service>
+        <message>No match for</message>
+    </web.ve>
+    <web.za>
+        <service>whois.co.za</service>
+        <message>No information available</message>
+    </web.za>
+    <website>
+        <service>whois.nic.website</service>
+        <message>DOMAIN NOT FOUND</message>
+    </website>
+    <wed>
+        <service>whois.nic.wed</service>
+        <message>Domain Status: No Object Found</message>
+    </wed>
+    <wedding>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </wedding>
+    <wf>
+        <service>whois.nic.wf</service>
+        <message>No entries found</message>
+    </wf>
+    <whoswho>
+        <service>whois.nic.whoswho</service>
+        <message>Not found:</message>
+    </whoswho>
+    <wien>
+        <service>whois.nic.wien</service>
+        <message>% No match</message>
+    </wien>
+    <wiki>
+        <service>whois.nic.wiki</service>
+        <message>DOMAIN NOT FOUND</message>
+    </wiki>
+    <wme>
+        <service>whois.nic.wme</service>
+        <message>DOMAIN NOT FOUND</message>
+    </wme>
+    <work>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </work>
+    <works>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </works>
+    <world>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </world>
+    <ws>
+        <service>whois.website.ws</service>
+        <message>No match for</message>
+    </ws>
+    <wtc>
+        <service>whois.nic.wtc</service>
+        <message>No Data Found</message>
+    </wtc>
+    <wtf>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </wtf>
+    <www.ro>
+        <service>whois.rotld.ro</service>
+        <message>No entries found</message>
+    </www.ro>
+    <xj.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </xj.cn>
+    <xn--1qqw23a>
+        <service>whois.ngtld.cn</service>
+        <message>No match</message>
+    </xn--1qqw23a>
+    <xn--3bst00m>
+        <service>whois.gtld.knet.cn</service>
+        <message>No match</message>
+    </xn--3bst00m>
+    <xn--3ds443g>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </xn--3ds443g>
+    <xn--3e0b707e>
+        <service>whois.kr</service>
+        <message>Above domain name is not registered to</message>
+    </xn--3e0b707e>
+    <xn--45q11c>
+        <service>whois.nic.xn--45q11c</service>
+        <message>No match</message>
+    </xn--45q11c>
+    <xn--4gbrim>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </xn--4gbrim>
+    <xn--55qw42g>
+        <service>whois.conac.cn</service>
+        <message>Not find MatchingRecord</message>
+    </xn--55qw42g>
+    <xn--55qx5d>
+        <service>whois.ngtld.cn</service>
+        <message>No match</message>
+    </xn--55qx5d>
+    <xn--6frz82g>
+        <service>whois.afilias.net</service>
+        <message>NOT FOUND</message>
+    </xn--6frz82g>
+    <xn--6qq986b3xl>
+        <service>whois.gtld.knet.cn</service>
+        <message>No match</message>
+    </xn--6qq986b3xl>
+    <xn--80adxhks>
+        <service>whois.nic.xn--80adxhks</service>
+        <message>No entries found</message>
+    </xn--80adxhks>
+    <xn--80ao21a>
+        <service>whois.nic.kz</service>
+        <message>Nothing found for this query.</message>
+    </xn--80ao21a>
+    <xn--80asehdb>
+        <service>whois.online.rs.corenic.net</service>
+        <message>% no matching objects found</message>
+    </xn--80asehdb>
+    <xn--80aswg>
+        <service>whois.site.rs.corenic.net</service>
+        <message>% no matching objects found</message>
+    </xn--80aswg>
+    <xn--c1avg>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </xn--c1avg>
+    <xn--clchc0ea0b2g2a9gcd>
+        <service>whois.sgnic.sg</service>
+        <message>Domain Not Found</message>
+    </xn--clchc0ea0b2g2a9gcd>
+    <xn--czrs0t>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </xn--czrs0t>
+    <xn--czru2d>
+        <service>whois.gtld.knet.cn</service>
+        <message>No match</message>
+    </xn--czru2d>
+    <xn--d1acj3b>
+        <service>whois.nic.xn--d1acj3b</service>
+        <message>No entries found</message>
+    </xn--d1acj3b>
+    <xn--d1alf>
+        <service>whois.marnet.mk</service>
+        <message>% No entries found.</message>
+    </xn--d1alf>
+    <xn--fiq228c5hs>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </xn--fiq228c5hs>
+    <xn--fiq64b>
+        <service>whois.gtld.knet.cn</service>
+        <message>No match</message>
+    </xn--fiq64b>
+    <xn--fiqs8s>
+        <service>cwhois.cnnic.cn</service>
+        <message>no matching record</message>
+    </xn--fiqs8s>
+    <xn--fiqz9s>
+        <service>cwhois.cnnic.cn</service>
+        <message>no matching record</message>
+    </xn--fiqz9s>
+    <xn--flw351e>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </xn--flw351e>
+    <xn--hxt814e>
+        <service>whois.nic.xn--hxt814e</service>
+        <message>No match</message>
+    </xn--hxt814e>
+    <xn--i1b6b1a6a2e>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </xn--i1b6b1a6a2e>
+    <xn--io0a7i>
+        <service>whois.ngtld.cn</service>
+        <message>No match</message>
+    </xn--io0a7i>
+    <xn--j1amh>
+        <service>whois.dotukr.com</service>
+        <message>No match for</message>
+    </xn--j1amh>
+    <xn--j6w193g>
+        <service>whois.hkirc.hk</service>
+        <message>The domain has not been registered</message>
+    </xn--j6w193g>
+    <xn--kput3i>
+        <service>whois.afilias-srs.net</service>
+        <message>NOT FOUND</message>
+    </xn--kput3i>
+    <xn--lgbbat1ad8j>
+        <service>whois.nic.dz</service>
+        <message>NO OBJECT FOUND!</message>
+    </xn--lgbbat1ad8j>
+    <xn--mgb9awbf>
+        <service>whois.registry.om</service>
+        <message>No Data Found</message>
+    </xn--mgb9awbf>
+    <xn--mgba3a4f16a>
+        <service>whois.nic.ir</service>
+        <message>% No entries found.</message>
+    </xn--mgba3a4f16a>
+    <xn--mgbaam7a8h>
+        <service>whois.aeda.net.ae</service>
+        <message>No Data Found</message>
+    </xn--mgbaam7a8h>
+    <xn--mgberp4a5d4ar>
+        <service>whois.nic.net.sa</service>
+        <message>No Match</message>
+    </xn--mgberp4a5d4ar>
+    <xn--mgbx4cd0ab>
+        <service>whois.mynic.my</service>
+        <message>does not exist in database</message>
+    </xn--mgbx4cd0ab>
+    <xn--mxtq1m>
+        <service>whois.nic.xn--mxtq1m</service>
+        <message>Not Found.</message>
+    </xn--mxtq1m>
+    <xn--ngbc5azd>
+        <service>whois.nic.xn--ngbc5azd</service>
+        <message>No Data Found</message>
+    </xn--ngbc5azd>
+    <xn--nqv7f>
+        <service>whois.publicinterestregistry.net</service>
+        <message>NOT FOUND</message>
+    </xn--nqv7f>
+    <xn--o3cw4h>
+        <service>whois.thnic.co.th</service>
+        <message>No match for</message>
+    </xn--o3cw4h>
+    <xn--ogbpf8fl>
+        <service>whois.tld.sy</service>
+        <message>Available</message>
+    </xn--ogbpf8fl>
+    <xn--p1acf>
+        <service>whois.nic.xn--p1acf</service>
+        <message>Domain Status: No Object Found</message>
+    </xn--p1acf>
+    <xn--p1ai>
+        <service>whois.ripn.net</service>
+        <message>No entries found</message>
+    </xn--p1ai>
+    <xn--q9jyb4c>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </xn--q9jyb4c>
+    <xn--qcka1pmc>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </xn--qcka1pmc>
+    <xn--unup4y>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </xn--unup4y>
+    <xn--vermgensberater-ctb>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </xn--vermgensberater-ctb>
+    <xn--vermgensberatung-pwb>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </xn--vermgensberatung-pwb>
+    <xn--vhquv>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </xn--vhquv>
+    <xn--wgbl6a>
+        <service>whois.registry.qa</service>
+        <message>No Data Found</message>
+    </xn--wgbl6a>
+    <xn--xhq521b>
+        <service>whois.ngtld.cn</service>
+        <message>No match</message>
+    </xn--xhq521b>
+    <xn--yfro4i67o>
+        <service>whois.sgnic.sg</service>
+        <message>Domain Not Found</message>
+    </xn--yfro4i67o>
+    <xn--ygbi2ammx>
+        <service>whois.pnina.ps</service>
+        <message>Available</message>
+    </xn--ygbi2ammx>
+    <xn--zfr164b>
+        <service>whois.conac.cn</service>
+        <message>Not find MatchingRecord</message>
+    </xn--zfr164b>
+    <xxx>
+        <service>whois.nic.xxx</service>
+        <message>NOT FOUND</message>
+    </xxx>
+    <xyz>
+        <service>whois.nic.xyz</service>
+        <message>DOMAIN NOT FOUND</message>
+    </xyz>
+    <xz.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </xz.cn>
+    <yn.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </yn.cn>
+    <yodobashi>
+        <service>whois.nic.gmo</service>
+        <message>DOMAIN NOT FOUND</message>
+    </yodobashi>
+    <yoga>
+        <service>whois-dub.mm-registry.com</service>
+        <message>is available for registration</message>
+    </yoga>
+    <youtube>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </youtube>
+    <yt>
+        <service>whois.nic.yt</service>
+        <message>No entries found</message>
+    </yt>
+    <za.com>
+        <service>whois.centralnic.com</service>
+        <message>DOMAIN NOT FOUND</message>
+    </za.com>
+    <za.net>
+        <service>http://www.za.net/cgi-bin/whois.cgi?domain=</service>
+        <message>No such domain</message>
+    </za.net>
+    <za.org>
+        <service>http://www.za.net/cgi-bin/whois.cgi?domain=</service>
+        <message>No such domain</message>
+    </za.org>
+    <zip>
+        <service>domain-registry-whois.l.google.com</service>
+        <message>Domain not found.</message>
+    </zip>
+    <zj.cn>
+        <service>whois.cnnic.net.cn</service>
+        <message>no matching record</message>
+    </zj.cn>
+    <zlg.br>
+        <service>whois.nic.br</service>
+        <message>No match for</message>
+    </zlg.br>
+    <zm>
+        <service>whois.nic.zm</service>
+        <message>Domain Status: No Object Found</message>
+    </zm>
+    <zone>
+        <service>whois.donuts.co</service>
+        <message>Domain not found.</message>
+    </zone>
+    <zuerich>
+        <service>whois.ksregistry.net</service>
+        <message>not found...</message>
+    </zuerich>
+</tld>
